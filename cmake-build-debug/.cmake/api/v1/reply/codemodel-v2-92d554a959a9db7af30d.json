@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercise2__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise2__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise2__-Debug-a1d84a45fb1d75e3949f.json",
+					"name" : "exercise2__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ren/Desktop/C++/HeiMa/exercise2: \u516c\u804c\u7ba1\u7406\u7cfb\u7edf/cmake-build-debug",
+		"source" : "/Users/ren/Desktop/C++/HeiMa/exercise2: \u516c\u804c\u7ba1\u7406\u7cfb\u7edf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

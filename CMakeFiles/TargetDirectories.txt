@@ -1,0 +1,3 @@
+/Users/ren/Desktop/C++/HeiMa/exercise2: 公职管理系统/CMakeFiles/main.cpp.dir
+/Users/ren/Desktop/C++/HeiMa/exercise2: 公职管理系统/CMakeFiles/edit_cache.dir
+/Users/ren/Desktop/C++/HeiMa/exercise2: 公职管理系统/CMakeFiles/rebuild_cache.dir

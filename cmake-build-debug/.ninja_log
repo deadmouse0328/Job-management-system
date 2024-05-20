@@ -1,0 +1,8 @@
+# ninja log v5
+18	901	1706576183912845408	CMakeFiles/exercise2__.dir/manager.cpp.o	27dadd29247c9376
+18	897	1706576183912862800	CMakeFiles/exercise2__.dir/boss.cpp.o	21690217500ee18e
+972	1079	1706677865860827804	exercise2__	a77b8e6c6c619d45
+15	972	1706677865749625134	CMakeFiles/exercise2__.dir/workerManager.cpp.o	2113e248ff1f9ba7
+14	875	1706576642836306293	CMakeFiles/exercise2__.dir/employee.cpp.o	e374135bb161a97c
+13	1000	1706677303472849721	CMakeFiles/exercise2__.dir/main.cpp.o	a4a2e52c48748bb3
+8	117	1707593317412238668	build.ninja	2f00f4de05de14f9
